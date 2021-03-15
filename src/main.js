@@ -5,6 +5,8 @@ import store from './store'
 import Vant from 'vant'
 import 'vant/lib/index.css'
 
+import '@/styles/index.css'
+
 // 导入amfe-flexible
 import 'amfe-flexible'
 
